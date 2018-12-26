@@ -21,11 +21,11 @@ namespace TestOraLegale
         {
             if (TimeZoneInfo.Local.IsDaylightSavingTime(DateTime.Now))
             {
-                label1.Text = "Ora legale";
+                bllTest.Text = "Ora legale";
             }
             else
             {
-                label1.Text = "Ora solare";
+                bllTest.Text = "Ora solare";
             }
         }
     }
