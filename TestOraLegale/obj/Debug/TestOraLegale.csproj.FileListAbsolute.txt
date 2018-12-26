@@ -1,0 +1,10 @@
+C:\work\Testora\TestOraLegale\TestOraLegale\bin\Debug\TestOraLegale.exe.config
+C:\work\Testora\TestOraLegale\TestOraLegale\bin\Debug\TestOraLegale.exe
+C:\work\Testora\TestOraLegale\TestOraLegale\bin\Debug\TestOraLegale.pdb
+C:\work\Testora\TestOraLegale\TestOraLegale\obj\Debug\TestOraLegale.csprojAssemblyReference.cache
+C:\work\Testora\TestOraLegale\TestOraLegale\obj\Debug\TestOraLegale.Form1.resources
+C:\work\Testora\TestOraLegale\TestOraLegale\obj\Debug\TestOraLegale.Properties.Resources.resources
+C:\work\Testora\TestOraLegale\TestOraLegale\obj\Debug\TestOraLegale.csproj.GenerateResource.cache
+C:\work\Testora\TestOraLegale\TestOraLegale\obj\Debug\TestOraLegale.csproj.CoreCompileInputs.cache
+C:\work\Testora\TestOraLegale\TestOraLegale\obj\Debug\TestOraLegale.exe
+C:\work\Testora\TestOraLegale\TestOraLegale\obj\Debug\TestOraLegale.pdb
