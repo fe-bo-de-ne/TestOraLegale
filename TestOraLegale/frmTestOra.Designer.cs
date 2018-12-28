@@ -30,11 +30,12 @@
         {
             this.btnTest = new System.Windows.Forms.Button();
             this.bllTest = new System.Windows.Forms.Label();
+            this.dtpData = new System.Windows.Forms.DateTimePicker();
             this.SuspendLayout();
             // 
             // btnTest
             // 
-            this.btnTest.Location = new System.Drawing.Point(351, 38);
+            this.btnTest.Location = new System.Drawing.Point(39, 12);
             this.btnTest.Name = "btnTest";
             this.btnTest.Size = new System.Drawing.Size(103, 25);
             this.btnTest.TabIndex = 0;
@@ -45,21 +46,30 @@
             // bllTest
             // 
             this.bllTest.AutoSize = true;
-            this.bllTest.Location = new System.Drawing.Point(36, 59);
+            this.bllTest.Location = new System.Drawing.Point(46, 53);
             this.bllTest.Name = "bllTest";
             this.bllTest.Size = new System.Drawing.Size(59, 13);
             this.bllTest.TabIndex = 1;
             this.bllTest.Text = "Ora Legale";
+            // 
+            // dtpData
+            // 
+            this.dtpData.Location = new System.Drawing.Point(149, 13);
+            this.dtpData.Name = "dtpData";
+            this.dtpData.Size = new System.Drawing.Size(200, 20);
+            this.dtpData.TabIndex = 2;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 151);
+            this.Controls.Add(this.dtpData);
             this.Controls.Add(this.bllTest);
             this.Controls.Add(this.btnTest);
             this.Name = "Form1";
             this.Text = "Ora Legale";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -69,6 +79,7 @@
 
         private System.Windows.Forms.Button btnTest;
         private System.Windows.Forms.Label bllTest;
+        private System.Windows.Forms.DateTimePicker dtpData;
     }
 }
 
